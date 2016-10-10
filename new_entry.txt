@@ -1,0 +1,22 @@
+<!-- ========START HewittEtAl2015 ============================================ -->
+<tr>
+<td>
+<img src="HewittEtAl2015.png">
+</td>
+<td>
+<a href="HewittEtAl2015.pdf">HewittEtAl2015</a>
+</td>
+<td>
+<b>Notes:</b> 
+<ul>
+<li> bla
+<li> bla
+</ul>
+<!--     ........UNCOMMENT THIS TO ADD SCANNED NOTES......... -->
+<!-- 
+<b>Scanned Notes:</b> <a href="HewittEtAl2015_notes.pdf">HewittEtAl2015_notes.pdf</a>
+-->
+<!--     ........END UNCOMMENT THIS TO ADD SCANNED NOTES..... -->
+</td>
+</tr>
+<!-- ========END HewittEtAl2015 ============================================ -->
